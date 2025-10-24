@@ -1,5 +1,9 @@
 # EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER
 
+# NAME : Vignesh S
+
+# REG NO: 212224110061
+
 ### Aim:
 To generate a PWM wave at the timer pin output and  simuate it on  proteus using an virtual oscilloscope  
 
@@ -380,22 +384,27 @@ TOFF=
 TOTAL TIME = 3*0.1ms+3*0.1ms=0.6ms
 
 FREQUENCY = 1/(TOTAL TIME)
-          = 1/(0.6*10^-3)= 1.667*10^3=1.67kHz
+          = 1/(0.6*10^-3)= 1.667*10^3
+          979=1.67kHz
           
 FOR PULSE AT 700
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 4.3 
+TOFF= 2
+TOTAL TIME = 4.3*0.1ms + 2*0.1ms= 0.63ms 
 FREQUENCY = 1/(TOTAL TIME)
+          = 1/(0.63 * 10^-3)
+          = 1.58KHz
 
 
 FOR PULSE AT 900
 
-TON = 
-TOFF=
-TOTAL TIME = 
+TON = 5.6
+TOFF = 0.5
+TOTAL TIME = 5.6*0.1ms + 0.5*0.1ms = 1.06ms 
 FREQUENCY = 1/(TOTAL TIME)
+          = 1/(1.06*10^-3)
+          = 0.943KHz
 
 
 ## Result :

@@ -381,17 +381,17 @@ FOR PULSE AT 500
 
 TON = 
 TOFF=
-TOTAL TIME = 3*0.1ms+3*0.1ms=0.6ms
+TOTAL TIME = 3 * 0.1ms+3 * 0.1ms=0.6ms
 
 FREQUENCY = 1/(TOTAL TIME)
-          = 1/(0.6*10^-3)= 1.667*10^3
+          = 1/(0.6 * 10^-3)= 1.667*10^3
           979=1.67kHz
           
 FOR PULSE AT 700
 
 TON = 4.3 
 TOFF= 2
-TOTAL TIME = 4.3*0.1ms + 2*0.1ms= 0.63ms 
+TOTAL TIME = 4.3 * 0.1ms + 2 * 0.1ms= 0.63ms 
 FREQUENCY = 1/(TOTAL TIME)
           = 1/(0.63 * 10^-3)
           = 1.58KHz
@@ -401,9 +401,9 @@ FOR PULSE AT 900
 
 TON = 5.6
 TOFF = 0.5
-TOTAL TIME = 5.6*0.1ms + 0.5*0.1ms = 1.06ms 
+TOTAL TIME = 5.6 * 0.1ms + 0.5 * 0.1ms = 1.06ms 
 FREQUENCY = 1/(TOTAL TIME)
-          = 1/(1.06*10^-3)
+          = 1/(1.06 * 10^-3)
           = 0.943KHz
 
 

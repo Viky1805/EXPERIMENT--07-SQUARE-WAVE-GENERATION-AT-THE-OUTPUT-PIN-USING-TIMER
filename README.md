@@ -362,11 +362,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 5000 :
 
-<img width="1919" height="1137" alt="Screenshot 2025-10-23 094049" src="https://github.com/user-attachments/assets/948dbb25-5173-4329-b4a5-dc9141b6b024" />
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/7357c93e-29a6-4122-9cda-5837b736c0f4" />
 
 7000:
 
-<img width="1919" height="1132" alt="Screenshot 2025-10-23 190924" src="https://github.com/user-attachments/assets/ceaac71b-d2f2-4d7e-bd14-f54b67b3c0e8" />
+<img width="1919" height="1130" alt="image" src="https://github.com/user-attachments/assets/11384687-6f64-4fde-8a33-cd6690ad2e0b" />
 
 9000:
 
@@ -381,11 +381,11 @@ FOR PULSE AT 500
 
 TON = 
 TOFF=
-TOTAL TIME = 3 * 0.1ms+3 * 0.1ms=0.6ms
+TOTAL TIME = 3 * 0.1ms+3 * 0.1ms = 0.6ms
 
 FREQUENCY = 1/(TOTAL TIME)
           = 1/(0.6 * 10^-3)= 1.667*10^3
-          979=1.67kHz
+          979 = 1.67kHz
           
 FOR PULSE AT 700
 
